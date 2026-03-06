@@ -21,8 +21,6 @@ Optimized for minimum input lag and maximum stable FPS on Source 2.
 5. Set both files to **read-only** (right-click → Properties → Read-only) to prevent the game from overwriting them
 6. Do NOT change in-game graphics settings after applying
 
-## Recommended Launch Options
-
 ## Notes
 - If you use DLSS, keep `r_citadel_antialiasing` at `0` in video.txt (DLSS has built-in AA)
 - If you use native render, set `r_citadel_upscaling` to `0` and `mat_viewportscale` to `1`
