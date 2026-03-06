@@ -1,6 +1,6 @@
 # Deadlock Competitive Config
 
-Optimized for minimum input lag and maximum stable FPS on Source 2.
+Optimized for minimum input lag and maximum stable FPS on Deadlock.
 
 ## System Tested On
 - GPU: RTX 4080
